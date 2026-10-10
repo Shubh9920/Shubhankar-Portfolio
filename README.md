@@ -1,12 +1,13 @@
-# Shubhankar-Portfolio
-Interactive 3D developer portfolio of Shubhankar Kumar Gupta: MCA student and founder of Bluepoint Digital. Built with React, TypeScript, Three.js and GSAP.
 # Shubhankar Kumar Gupta | 3D Portfolio
 
 An interactive 3D portfolio built with React, TypeScript, Three.js and GSAP.
-It shows who I am, what I build and how to reach me.
+
+🔗 **Live:** https://shubhankarportfolio.vercel.app
 
 ## About me
-I'm an MCA student at the School of Management Sciences, Varanasi (AKTU, 2025–2027)
+I'm a developer from Varanasi, currently pursuing an MCA at the School of Management
+Sciences, Varanasi (2025–2027). I like working on real-life problems, either to solve
+them or at least make them smaller.
 
 ## Featured projects
 - **PrintBot**: print-shop order automation with a Node.js backend, a Windows Python agent and a WhatsApp bot.
